@@ -3,7 +3,6 @@
     "name": "Rober Mamani",
     "label": "Researcher",
     "image": "",
-    "email": "rober.mamani@gmail.com",
     "url": "https://rober4m.github.io",
     "summary": "I am a researcher and engineer specializing in wind energy, air quality, and environmental modelling.",
     "location": {
@@ -37,8 +36,8 @@
       "url": "https://www.ulb.be/en",
       "area": "Aero-Thermo Mechanics",
       "studyType": "PhD",
-      "startDate": "2017",
-      "endDate": "",
+      "startDate": "",
+      "endDate": "2022",
       "courses": ["Wind energy potential in the Bolivian Andes. A numerical approach"]
     },
         {
@@ -47,8 +46,8 @@
       "url": "https://www.umss.edu.bo",
       "area": "Chemical Engineering",
       "studyType": "Engineering",
-      "startDate": "2008",
-      "endDate": "",
+      "startDate": "",
+      "endDate": "2012",
       "courses": ["Bioprocessing, Thermodynamics & Analytical chemistry"]
     },
             {
@@ -57,8 +56,8 @@
       "url": "https://cba.ucb.edu.bo",
       "area": "Competency-based education",
       "studyType": "Specialization",
-      "startDate": "2015",
-      "endDate": "",
+      "startDate": "",
+      "endDate": "2015",
       "courses": ["Specializing in competency-based education for engineering"]
     }
   ],
