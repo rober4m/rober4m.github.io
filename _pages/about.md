@@ -27,8 +27,5 @@ latest_posts:
 ---
 
 I am a researcher and engineer specializing in wind energy, air quality, and environmental modelling. My work combines computational fluid dynamics, numerical simulations, and data analysis to understand and optimize complex atmospheric systems.
+
 I hold a PhD in wind energy from the Université Libre de Bruxelles (ULB), Belgium, and a degree in Chemical Engineering from the Universidad Mayor de San Simón, Bolivia. My doctoral research focused on high‑altitude wind energy potential in the Bolivian Andes.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
