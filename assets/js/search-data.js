@@ -455,13 +455,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
@@ -487,14 +480,14 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/profile/Rober-Mamani/", "_blank");
+          window.open("https://www.researchgate.net/profile/Rober-Mamani/", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=55fWEJ4AAAAJ&hl=en&oi=ao", "_blank");
+          window.open("https://scholar.google.com/citations?user=55fWEJ4AAAAJ&hl=en&oi=ao", "_blank");
         },
       },{
       id: 'light-theme',
