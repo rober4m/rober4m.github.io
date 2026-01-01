@@ -32,24 +32,24 @@
 
   "education": [
     {
-      "institution": "Universite Libre de Bruxelles",
+      "institution": "Université Libre de Bruxelles",
       "location": "Brussels, Belgium",
       "url": "https://www.ulb.be/en",
       "area": "Aero-Thermo Mechanics",
       "studyType": "PhD",
-      "startDate": "",
+      "startDate": "2017",
       "endDate": "",
       "courses": ["Wind energy potential in the Bolivian Andes. A numerical approach"]
     },
         {
-      "institution": "Universidad Mayor de San Simon",
+      "institution": "Universidad Mayor de San Simón",
       "location": "Cochabamba, Bolivia",
       "url": "https://www.umss.edu.bo",
       "area": "Chemical Engineering",
       "studyType": "Engineering",
-      "startDate": "",
+      "startDate": "2008",
       "endDate": "",
-      "courses": ["Bioprocessing, Thermidynamics & Analytical chemistry"]
+      "courses": ["Bioprocessing, Thermodynamics & Analytical chemistry"]
     },
             {
       "institution": "Universidad Catolica Boliviana",
@@ -57,7 +57,7 @@
       "url": "https://cba.ucb.edu.bo",
       "area": "Competency-based education",
       "studyType": "Specialization",
-      "startDate": "",
+      "startDate": "2015",
       "endDate": "",
       "courses": ["Specializing in competency-based education for engineering"]
     }
@@ -80,10 +80,31 @@
     },
     {
       "name": "Weather Research & Forecasting model and MERRA‑2 data for wind energy evaluation at different altitudes in Bolivia.",
-      "publisher": "Wind Engineering,",
+      "publisher": "Wind Engineering",
       "releaseDate": "2021",
       "url": "https://doi.org/10.1177/0309524X211019701",
       "summary": "Wind energy is one of the most promising alternatives for a clean and ecological electricity generation. However, the implementation of efficient wind farms requires accurate data and measurements. This work analyses the MERRA-2 satellite datasets to compare and complement it with WRF simulations in different regions and altitudes in Bolivia, such as the Altiplano, Amazon and Chaco.."
+    },
+    {
+      "name": "Wind farm power short‑term prediction using WRF model and Kalman filtering",
+      "publisher": "Proceedings of the 32nd ECOS Conference",
+      "releaseDate": "2019",
+      "url": "https://doi.org/10.5281/zenodo.4321546",
+      "summary": "The growing wind power industry requires more reliable power forecasting due to higher penetration of this technology in electricity generation. Due to the stochastic behavour of wind, additional tools for improving the electricity forecast are required."
+    },
+    {
+      "name": "Efficiency of High Altitude On‑ shore Wind Turbines: Air Density and Turbulence Effects—Qollpana Wind Farm (Bolivia).",
+      "publisher": "Proceedings",
+      "releaseDate": "2018",
+      "url": "https://doi.org/10.3390/ICEM18-05385",
+      "summary": "The wind energy is one of the most important alternatives for renewable and clean electricity generation. During the last decade the number of wind farms has largely increased in South America. Qollpana is only one case of an on-shore wind farm but it is located at 2900 m above sea level over a complex terrain."
+    },
+        {
+      "name": "Evaluación numérica de diferentes alternativas de energías renovables en Raqaypampa",
+      "publisher": "Cientifica UMSS",
+      "releaseDate": "2019",
+      "url": "https://doi.org/10.5281/zenodo.4320775",
+      "summary": "This work presents wind and solar energy as two alternatives for electricity generation in the Indigenous Campesino Autonomy of Raqaypampa, based on the need for residents to know their energy potential."
     }
   ],
   "skills": [
