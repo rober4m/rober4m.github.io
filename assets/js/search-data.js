@@ -466,28 +466,28 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/rober4m", "_blank");
+          window.open("https://github.com/rober4m", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/rober-mamani/", "_blank");
+          window.open("https://www.linkedin.com/in/rober-mamani/", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0000-0003-0310-3171", "_blank");
+          window.open("https://orcid.org/0000-0003-0310-3171", "_blank");
         },
       },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Rober-Mamani/", "_blank");
+          window.open("https://www.researchgate.net/profile/profile/Rober-Mamani/", "_blank");
         },
       },{
         id: 'social-scholar',
