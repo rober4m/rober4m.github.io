@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Numerical modeller & Data scientist
 
 profile:
   align: right
