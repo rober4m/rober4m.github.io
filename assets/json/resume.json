@@ -38,7 +38,7 @@
       "area": "Aero-Thermo Mechanics",
       "studyType": "PhD",
       "startDate": "",
-      "endDate": "2022",
+      "endDate": "",
       "courses": ["Wind energy potential in the Bolivian Andes. A numerical approach"]
     },
         {
@@ -48,7 +48,7 @@
       "area": "Chemical Engineering",
       "studyType": "Engineering",
       "startDate": "",
-      "endDate": "2013",
+      "endDate": "",
       "courses": ["Bioprocessing, Thermidynamics & Analytical chemistry"]
     },
             {
@@ -58,7 +58,7 @@
       "area": "Competency-based education",
       "studyType": "Specialization",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "",
       "courses": ["Specializing in competency-based education for engineering"]
     }
   ],
@@ -111,7 +111,7 @@
       ]
     },
             {
-      "name": "Miscellaneous",
+      "name": "Computational Tools",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -141,15 +141,15 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Climate and meteorology",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Wind Energy",
+        "Air Quality",
+        "Numerical Weather Prediction",
+        "Computational Fluid Dynamics",
+        "Wind Comfort Assessment",
+        "Energy Meteorology"
       ]
     }
   ],
@@ -157,10 +157,15 @@
   "projects": [
     {
       "name": "Wind Energy in High Altitude Conditions",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
       "highlights": ["Wind energy", "Bolivian Andes"],
       "startDate": "2017",
       "endDate": "2022"
+    }, 
+        {
+      "name": "High-resolution modelling of wind comfort, wind energy air quality in Antwerp",
+      "highlights": ["Air Quality", "Wind Comfort"],
+      "startDate": "2024",
+      "endDate": "2025"
     }
   ]
 }
