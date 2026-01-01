@@ -37,7 +37,7 @@
       "url": "https://www.ulb.be/en",
       "area": "Aero-Thermo Mechanics",
       "studyType": "PhD",
-      "startDate": "2017",
+      "startDate": "",
       "endDate": "2022",
       "courses": ["Wind energy potential in the Bolivian Andes. A numerical approach"]
     },
@@ -47,7 +47,7 @@
       "url": "https://www.umss.edu.bo",
       "area": "Chemical Engineering",
       "studyType": "Engineering",
-      "startDate": "2018",
+      "startDate": "",
       "endDate": "2013",
       "courses": ["Bioprocessing, Thermidynamics & Analytical chemistry"]
     },
@@ -88,16 +88,24 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Modelling",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Weather Research & Forecasting",
+        "OpenFOAM",
+        "CHIMERE",
+        "WAsP"
+      ],
+
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "OpenFOAM",
+        "CHIMERE",
+        "WAsP"
       ]
     }
   ],
@@ -135,12 +143,11 @@
 
   "projects": [
     {
-      "name": "Quantum Computing",
+      "name": "Wind Energy in High Altitude Conditions",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "highlights": ["Wind energy", "Bolivian Andes"],
+      "startDate": "2017",
+      "endDate": "2022"
     }
   ]
 }
