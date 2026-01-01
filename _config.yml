@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: PhD. # the website title (if blank, full name will be used instead)
+title: About # the website title (if blank, full name will be used instead)
 first_name: Rober
 middle_name: 
-last_name: Mamani
+last_name: Mamani, PhD.
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
