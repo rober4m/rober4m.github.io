@@ -25,6 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher and engineer specializing in wind energy, air quality, and environmental modelling. My work combines computational fluid dynamics, numerical simulations, and data analysis to understand and optimize complex atmospheric systems.
+I am a researcher and engineer specializing in wind energy, air quality, and environmental modelling. My work integrates computational fluid dynamics, numerical simulations, and data-driven analysis to understand, predict, and optimize complex atmospheric systems.
 
-I hold a PhD in wind energy from the Université Libre de Bruxelles (ULB), Belgium, and a degree in Chemical Engineering from the Universidad Mayor de San Simón, Bolivia. My doctoral research focused on high‑altitude wind energy potential in the Bolivian Andes.
+
+I hold a PhD in Wind Energy from the Université Libre de Bruxelles (ULB), Belgium, and a degree in Chemical Engineering from the Universidad Mayor de San Simón, Bolivia. My doctoral research focused on assessing high-altitude wind energy potential in the Bolivian Andes, combining advanced numerical modelling with real-world environmental challenges.
