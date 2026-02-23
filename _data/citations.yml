@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-02'
+  last_updated: '2026-02-23'
 papers:
   55fWEJ4AAAAJ:9yKSN-GCB0IC:
     citations: 2
@@ -9,6 +9,10 @@ papers:
     citations: 0
     title: UMAYUX-LARVIC-Team Description Paper-IEEE Very Small Size LARC 2015
     year: Unknown Year
+  55fWEJ4AAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: 'Local lake-breeze circulations at high altitude in the Titicaca lake area: on-site and numerical simulations of lake-breeze.'
+    year: '2018'
   55fWEJ4AAAAJ:Tyk-4Ss8FVUC:
     citations: 2
     title: 'Wind Power Potential in Highlands of the Bolivian Andes: A Numerical Approach'
