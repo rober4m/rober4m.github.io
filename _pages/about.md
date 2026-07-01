@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Numerical modeller & Data scientist
+subtitle: Atmospheric modeller & Data scientist
 
 profile:
   align: right
@@ -25,7 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher and engineer specializing in wind energy, air quality, and environmental modelling. My work integrates computational fluid dynamics, numerical simulations, and data-driven analysis to understand, predict, and optimize complex atmospheric systems.
+I am a researcher and engineer specializing in wind energy, air quality, and environmental modelling. My work combines computational fluid dynamics, numerical simulation, and data-driven analysis to understand, predict, and optimize complex atmospheric systems, using tools such as WRF, CHIMERE, and OpenFOAM alongside Python for data processing and analysis.
 
-
-I hold a PhD in Wind Energy from the Université Libre de Bruxelles (ULB), Belgium, and my doctoral research focused on assessing high-altitude wind energy potential in the Bolivian Andes, combining advanced numerical modelling with real-world environmental challenges.
+I hold a PhD in Wind Energy from the Université Libre de Bruxelles (ULB), Belgium, where my doctoral research assessed wind energy potential over complex terrain, bridging advanced numerical modelling with real-world environmental challenges.
