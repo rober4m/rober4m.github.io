@@ -25,6 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<iframe src="https://embed.tidal.com/tracks/227614760" width="500" height="120" allow="encrypted-media; fullscreen; clipboard-write https://embed.tidal.com; web-share" sandbox="allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox" style="color-scheme: light dark" title="TIDAL Embed Player" />
+
 I am a researcher and engineer specializing in wind energy, air quality, and environmental modelling. My work combines computational fluid dynamics, numerical simulation, and data-driven analysis to understand, predict, and optimize complex atmospheric systems, using tools such as WRF, CHIMERE, and OpenFOAM alongside Python for data processing and analysis.
 
 I hold a PhD in Wind Energy from the Université Libre de Bruxelles (ULB), Belgium, where my doctoral research assessed wind energy potential over complex terrain, bridging advanced numerical modelling with real-world environmental challenges.
